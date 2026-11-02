@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- Updated canonical repository name and specification references from `remora-harness` to `remora`.
+- Updated repository name and specification references from `remora-harness` to `remora`.
 
 ## [0.1.0] - 2026-10-23
 
