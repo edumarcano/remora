@@ -3,7 +3,7 @@
 | Field | Value |
 | --- | --- |
 | Product | Remora |
-| Repository name | `remora-harness` |
+| Repository name | `remora` |
 | Specification revision | 0.1 |
 | Target release | v0.1 |
 | Date | October 15, 2026 |
@@ -260,7 +260,7 @@ Conversational brainstorming is not a durable decision. Only explicit current au
 ### 6.1 Source repository
 
 ```text
-remora-harness/
+remora/
 |-- AGENTS.md                    # Instructions for developing Remora itself
 |-- README.md                    # Purpose, first use, supported scope
 |-- LICENSE                      # Selected before public release
